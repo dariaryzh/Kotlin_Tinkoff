@@ -1,5 +1,4 @@
 # Kotlin_Tinkoff
-Homework
 
 Домашнее задание для QA Mobile Tinkoff:
 
