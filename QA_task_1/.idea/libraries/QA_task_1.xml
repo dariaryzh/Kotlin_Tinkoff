@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="QA_task_1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://$USER_HOME$/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/junit-4.13-rc-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$" />
+    </SOURCES>
+  </library>
+</component>
